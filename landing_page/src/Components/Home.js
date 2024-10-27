@@ -14,7 +14,7 @@ const Home = () => {
         </div>
         <div className="home-text-section">
           <h1 className="primary-heading">
-            Special recipe from Sudha's special kitchen!
+            Special recipe from Sudha's kitchen!
           </h1>
           <p className="primary-text">
             Savor Every Bite, One Flavor at a Time. Join Us on a Delicious
